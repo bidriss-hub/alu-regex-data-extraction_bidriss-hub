@@ -1,0 +1,27 @@
+Hello team,
+
+Please contact support@alueducation.com for help.
+Alumni can reach us at graduate@alumni.alueducation.com.
+SI team email: staff@si.alueducation.com.
+
+Invalid emails:
+bad@@mail..com
+user@fake
+
+Visit our website:
+https://example.com
+http://test.org/page
+
+Call us:
++250 788 123 456
+(123) 456-7890
+
+Payments:
+Valid: 4111-1111-1111-1111
+Invalid: 1234-5678-abc
+
+Meeting times:
+14:30
+2:45 PM
+
+<script>alert('hacked');</script>

@@ -1,0 +1,11 @@
+{
+  "emails": {
+    "official": ["support@alueducation.com"],
+    "alumni": ["graduate@alumni.alueducation.com"],
+    "si": ["staff@si.alueducation.com"],
+    "others": []
+  },
+  "cards": ["**** **** **** 1111"],
+  "urls": ["https://example.com"],
+  "phones": ["+250 788 123 456"]
+}
